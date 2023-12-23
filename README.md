@@ -6,5 +6,7 @@
 ---
 
 ### Etc..
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chancethinking.tistory.com/)](https://chancethinking.tistory.com/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdrffg)](https://solved.ac/gdrffg/)
+###
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chancethinking.tistory.com/)](https://chancethinking.tistory.com/)
+
