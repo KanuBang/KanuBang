@@ -3,3 +3,6 @@
 
 ### Blog
 https://chancethinking.tistory.com/
+
+### Ps
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdrffg)](https://solved.ac/gdrffg/)
