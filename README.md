@@ -16,6 +16,7 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F32.svg?&style=for-the-badge&logo=AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chancethinking.tistory.com/)](https://chancethinking.tistory.com/)
 
 ## Etc..
