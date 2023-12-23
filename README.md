@@ -17,10 +17,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F32.svg?&style=for-the-badge&logo=AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
-## Blog
+## Etc..
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdrffg)](https://solved.ac/gdrffg/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chancethinking.tistory.com/)](https://chancethinking.tistory.com/)
 
-### Etc..
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdrffg)](https://solved.ac/gdrffg/)
 
 
