@@ -16,7 +16,8 @@
 
 ## Etc..
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdrffg)](https://solved.ac/gdrffg/)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={chancethinking})](https://chancethinking.tistory.com/)
+<br>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=chancethinking)](https://chancethinking.tistory.com/)
 
 
 
