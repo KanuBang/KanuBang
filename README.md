@@ -13,11 +13,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
 <br>
-## Blog
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chancethinking.tistory.com/)(https://chancethinking.tistory.com/)
 
 ## Etc..
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdrffg)](https://solved.ac/gdrffg/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={chancethinking}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 
 
 
