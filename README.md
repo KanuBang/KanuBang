@@ -10,15 +10,3 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-
-<br>
-
-## Etc..
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdrffg)](https://solved.ac/gdrffg/)
-<br>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=chancethinking)](https://chancethinking.tistory.com/)
-
-
-
-
-
