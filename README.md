@@ -9,6 +9,5 @@
 ![Aws](https://img.shields.io/badge/Aws-232F3E.svg?&style=for-the-badge&logo=Aws&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
 
----
 ## Experience
 F-lab Java Backend (2024/10 ~ 2025/02)
