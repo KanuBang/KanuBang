@@ -11,3 +11,6 @@
 
 ## Experience
 F-lab Java Backend (2024/10 ~ 2025/02)
+
+## Etc
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdrffg)](https://solved.ac/gdrffg/)
